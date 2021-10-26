@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+*{
+ 
+}
+
+html{    
+    font-size: 20px;
+}
+
+body{
+    font-family: "Kanit";
+}
+
+fieldset{
+    background-color: #94c1fa;
+}
+
+td{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: #ffce3a;
+}
+
+text{
+    
+}
+
+input 
+{
+    color: rgb(0, 132, 255);
+}
+

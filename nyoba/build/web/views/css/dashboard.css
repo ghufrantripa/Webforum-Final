@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+*{
+ 
+}
+
+html{    
+    font-size: 25px;
+}
+
+body{
+    background-position: 2 100px;
+    font-family: "Kanit";
+}
+
+fieldset{
+    background-color: #94c1fa;
+    color: white;
+}
